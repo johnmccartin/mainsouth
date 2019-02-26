@@ -197,7 +197,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 
 /* line 5, ../sass/_dark.scss */
 .dark {
-  background: #222;
+  background: #44658D;
   color: #fff;
 }
 /* line 13, ../sass/_dark.scss */
@@ -241,7 +241,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 
 /* line 56, ../sass/_dark.scss */
 .brand-title.dark {
-  background: orange;
+  background: #44658D;
 }
 
 /* line 6, ../sass/_debug.scss */
@@ -300,7 +300,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 /* line 35, ../sass/_menu.scss */
 .pure-menu li a:hover, .pure-menu li a:focus {
   color: #222;
-  background: orange;
+  background: #44658D;
 }
 
 /* line 2, ../sass/_mp.scss */
@@ -532,21 +532,26 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 
 @media screen and (min-width: 48em) {
   /* line 4, ../sass/_queries.scss */
+  .brand-title {
+    font-size: 3em;
+  }
+
+  /* line 9, ../sass/_queries.scss */
   .nav-menu {
     background: transparent;
   }
 
-  /* line 9, ../sass/_queries.scss */
+  /* line 14, ../sass/_queries.scss */
   .md-pull-down {
     bottom: 0;
   }
 
-  /* line 14, ../sass/_queries.scss */
+  /* line 19, ../sass/_queries.scss */
   .header {
     position: fixed;
   }
 
-  /* line 18, ../sass/_queries.scss */
+  /* line 23, ../sass/_queries.scss */
   .content {
     padding-top: 2em;
   }
@@ -607,47 +612,54 @@ html, body {
 /* line 145, ../sass/main.scss */
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
-  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: Arial, "Lucida Grande", sans-serif;
 }
 
 /* line 150, ../sass/main.scss */
 ::selection {
-  background: orange;
+  background: #44658D;
   color: #fff;
 }
 
 /* line 154, ../sass/main.scss */
 ::-moz-selection {
-  background: orange;
+  background: #44658D;
   color: #fff;
 }
 
 /* line 159, ../sass/main.scss */
 body {
   color: #222;
+  font-size: 20px;
 }
 
-/* line 162, ../sass/main.scss */
+/* line 163, ../sass/main.scss */
 a {
   color: #222;
 }
 
-/* line 166, ../sass/main.scss */
+/* line 167, ../sass/main.scss */
 a:hover {
-  background: orange;
+  background: #44658D;
+  color: #fff;
 }
 
-/* line 170, ../sass/main.scss */
+/* line 172, ../sass/main.scss */
 .link-on-dark {
   color: #fff;
 }
 
-/* line 174, ../sass/main.scss */
+/* line 176, ../sass/main.scss */
 .link-no-decor {
   text-decoration: none;
 }
 
-/* line 179, ../sass/main.scss */
+/* line 180, ../sass/main.scss */
+p:first-of-type {
+  margin-top: 0;
+}
+
+/* line 184, ../sass/main.scss */
 .pure-g > div {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -655,34 +667,39 @@ a:hover {
   box-sizing: border-box;
 }
 
-/* line 186, ../sass/main.scss */
+/* line 191, ../sass/main.scss */
 .layout {
   min-height: 100%;
   position: relative;
 }
 
-/* line 191, ../sass/main.scss */
-.header-bar {
-  height: 2.5em;
+/* line 204, ../sass/main.scss */
+section {
+  padding-bottom: 1em;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 2em;
+}
+/* line 209, ../sass/main.scss */
+section:last-of-type {
+  border-bottom: 0px;
 }
 
-/* line 195, ../sass/main.scss */
-.wrapper {
-  padding-top: 2.5em;
-}
-
-/* line 200, ../sass/main.scss */
+/* line 216, ../sass/main.scss */
 .reader {
-  max-width: 650px;
-  margin: 0px auto;
+  max-width: 800px;
 }
 
-/* line 205, ../sass/main.scss */
+/* line 221, ../sass/main.scss */
 .title {
   text-decoration: none;
 }
 
-/* line 212, ../sass/main.scss */
+/* line 226, ../sass/main.scss */
+.brand-title {
+  font-weight: 400;
+  font-size: 2em;
+}
+/* line 230, ../sass/main.scss */
 .brand-title a {
   text-decoration: none;
 }
