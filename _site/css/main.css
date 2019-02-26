@@ -704,6 +704,6 @@ section:last-of-type {
 
   /* line 26, ../sass/_queries.scss */
   .content {
-    padding-top: 2em;
+    padding-top: 0.5em;
   }
 }
