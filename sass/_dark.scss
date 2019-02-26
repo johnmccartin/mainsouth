@@ -4,7 +4,9 @@
 
 .dark {
 
-	background: $highlight;
+		background: transparentize($highlight,.15);
+
+	
 
   color: $primary-light;
 
