@@ -234,5 +234,12 @@ section {
   }
 }
 
+.goog-te-gadget {
+  position:  fixed;
+  top: 0;
+  right: 18px;
+  z-index: 1000000;
+
+}
 
 @import 'queries';

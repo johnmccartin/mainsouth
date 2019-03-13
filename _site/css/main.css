@@ -681,6 +681,14 @@ section:last-of-type {
   text-decoration: none;
 }
 
+/* line 237, ../sass/main.scss */
+.goog-te-gadget {
+  position: fixed;
+  top: 0;
+  right: 18px;
+  z-index: 1000000;
+}
+
 @media screen and (min-width: 48em) {
   /* line 4, ../sass/_queries.scss */
   .brand-title {

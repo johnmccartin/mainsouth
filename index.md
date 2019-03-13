@@ -7,23 +7,15 @@ title: Main South District Planning Study
 	<p>Neighborhood groups are working cooperatively with city and state organziations to create a plan to improve the Main South TDI District (Main Street between King and Wellington Streets).</p>
 </section>
 
-<section id="workshop">
-	<h2>Community Workshop</h2>
-	<p>We will be holding a communtity workshop to discuss the future of the Main South area. This is your opportunity to get involved and share ideas!</p>
-	<p><b>
-		March 4, 2019<br />
-		5:30–8pm<br />
-		YMCA, 776 Main Street
-	</b></p>
-	<p><b>RSVP</b><br />
-		Please RSVP to Ivette Olmeda, MassDevelopment TDI Fellow at (857) 295-5314 or iolmeda@massdvelopment.com by February 28.
-	</p>
-	<p>Childcare will be provided. Refreshments will be served.</p>
-
-
-</section>
-
 <section id="survey">
 	<h2>Online Survey</h2>
-	<p>Give your feedback online <a href="https://mainsouth.mysocialpinpoint.com/district-info/">here</a>.</p>
+	<p>Share your ideas for the district online <a href="https://mainsouth.mysocialpinpoint.com/district-info/">here</a>.</p>
+</section>
+
+<section id="workshop">
+	<h2>Community Workshops</h2>
+	<p>We held a communtity workshop on March 4 to discuss the future of the Main South area. Participants at the workshop shared their understanding of the district and ideas for improvements. Results from this workshop will be shared soon. Check back at this site for updates.</p>
+
+	<p>Additional workshops will be held in summer 2019. These workshops will develop specific ideas for the district.</p>
+
 </section>
