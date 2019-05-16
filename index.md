@@ -9,7 +9,7 @@ title: Main South District Planning Study
 
 <section id="survey">
 	<h2>Online Survey</h2>
-	<p>Share your ideas for the district online <a href="https://mainsouth.mysocialpinpoint.com/mainsouth-district-info/">here</a>.</p>
+	<p>Share your ideas for the district online <a href="https://utile.mysocialpinpoint.com/mainsouth-district-info/">here</a>.</p>
 </section>
 
 <section id="workshop">
